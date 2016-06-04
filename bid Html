@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>####</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="nav">
+                  <li><a class="active first-in-navbar" href="#">الرئسية</a></li>
+	   					 		<li><a href="#">عنا</a></li>
+	   					 		<li><a href="#">اعمالنا</a></li>
+	   					 		<li><a href="#">خدماتنا</a></li>
+	   					 		<li><a href="#">راسلنا</a></li>
+</div>
+<img src="imageURL" title="" class="#">
+<p class="p-serv">
+هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص
+</p>
+ <div class="icon-social">
+		<a href="#"><i class="icon-social-footer fa fa-facebook"></i></a>
+		<a href="#"><i class="icon-social-footer fa fa-twitter"></i></a>
+		<a href="#"><i class="icon-social-footer fa fa-instagram"></i></a>
+		<a href="#"><i class="icon-social-footer fa fa-behance"></i></a>
+		<a href="#"><i class="icon-social-footer fa fa-youtube"></i></a>
+		</div>
+</body>
+</html>
